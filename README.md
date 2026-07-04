@@ -247,9 +247,9 @@ python app.py
 
 After execution, the project automatically generates:
 
-- **products.csv**[text](data/products.csv) — Cleaned product dataset
-- **products.db**[text](products.db) — SQLite database
-- **Daily_Report.xlsx**[text](reports/Daily_Report.xlsx) — Excel business report
+- [**products.csv**](data/products.csv) — Cleaned product dataset
+- [**products.db**](products.db) — SQLite database
+- [**Daily_Report.xlsx**](reports/Daily_Report.xlsx) — Excel business report
 - SQL summary reports displayed in the console
 
 ---
