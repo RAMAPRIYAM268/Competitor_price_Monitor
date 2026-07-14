@@ -245,12 +245,15 @@ python app.py
 
 #  Output Files
 
-After execution, the project automatically generates:
 
-- [**products.csv**](data/products.csv) — Cleaned product dataset
-- [**products.db**](products.db) — SQLite database
-- [**Daily_Report.xlsx**](reports/Daily_Report.xlsx) — Excel business report
-- SQL summary reports displayed in the console
+
+ [**products.csv**](data/products.csv) — Cleaned product dataset
+ 
+ [**products.db**](products.db) — SQLite database
+ 
+ [**Daily_Report.xlsx**](reports/Daily_Report.xlsx) — Excel business report
+
+ SQL summary reports displayed in the console
 
 ---
 
